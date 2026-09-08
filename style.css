@@ -592,3 +592,13 @@ footer a:hover {
         text-align: center;
     }
 }
+.browser-content {
+    overflow: hidden;
+}
+
+.browser-content img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
