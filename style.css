@@ -362,6 +362,10 @@ a {
     background: linear-gradient(135deg, #263b31, #0b100d);
 }
 
+.cleaning-preview {
+    background: linear-gradient(135deg, #b4b8e177, #0f0f0f);
+}
+
 .preview-label {
     padding: 7px 11px;
     border: 1px solid rgba(255, 255, 255, 0.2);
